@@ -1,0 +1,7 @@
+c:\users\vlonc_000\documents\visual studio 2013\Projects\Middlewarev1\Middlewarev1\bin\Middlewarev1.dll.config
+c:\users\vlonc_000\documents\visual studio 2013\Projects\Middlewarev1\Middlewarev1\bin\Middlewarev1.dll
+c:\users\vlonc_000\documents\visual studio 2013\Projects\Middlewarev1\Middlewarev1\bin\Middlewarev1.pdb
+c:\users\vlonc_000\documents\visual studio 2013\Projects\Middlewarev1\Middlewarev1\obj\Debug\Middlewarev1.csprojResolveAssemblyReference.cache
+c:\users\vlonc_000\documents\visual studio 2013\Projects\Middlewarev1\Middlewarev1\obj\Debug\Middlewarev1.dll
+c:\users\vlonc_000\documents\visual studio 2013\Projects\Middlewarev1\Middlewarev1\obj\Debug\Middlewarev1.pdb
+c:\users\vlonc_000\documents\visual studio 2013\Projects\Middlewarev1\Middlewarev1\bin\img\sli_logo.png
